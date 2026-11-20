@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.csv
+resp.xml
+*.log
+设备清单.txt
